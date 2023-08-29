@@ -5,6 +5,7 @@
 # User-specific stuff
 .idea/
 **/node_modules/
+**/package-lock.json
 
 # User-specific stuff
 .idea/**/workspace.xml
