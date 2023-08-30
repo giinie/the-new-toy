@@ -6,6 +6,7 @@
 .idea/
 **/node_modules/
 **/package-lock.json
+training/
 
 # User-specific stuff
 .idea/**/workspace.xml
@@ -81,4 +82,3 @@ fabric.properties
 
 # Android studio 3.1+ serialized cache file
 .idea/caches/build_file_checksums.ser
-
